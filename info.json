@@ -1,0 +1,563 @@
+{
+  "shedule": {
+    "PI20": [
+      {
+        "date": "2022-05-22T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "11:10",
+            "id": "0",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Інтелектуальні інформаційні системи",
+            "starttime": "10:10",
+            "teacher": "доц.Кот В.В.",
+            "type": 0
+          },
+          {
+            "description": "пр",
+            "endtime": "12:20",
+            "id": "6",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Іноземна мова",
+            "starttime": "11:20",
+            "teacher": "доц.Пабат М.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "13:30",
+            "id": "7",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Алгоритми і структури даних (CS103)",
+            "starttime": "12:30",
+            "teacher": "доц.Юскович-Жуковська В.І.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-23T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "4",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Алгоритми і структури даних (CS103)",
+            "starttime": "11:20",
+            "teacher": "доц.Юскович-Жуковська В.І.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-24T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лекція",
+            "endtime": "10:10",
+            "id": "0",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Інтелектуальні інформаційні системи",
+            "starttime": "9:00",
+            "teacher": "доц.Кот В.В.",
+            "type": 0
+          },
+          {
+            "description": "пр",
+            "endtime": "11:10",
+            "id": "4",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Українська мова",
+            "starttime": "10:10",
+            "teacher": "доц.Саркісова І.А.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-25T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "2",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Інтелектуальні інформаційні системи",
+            "starttime": "11:20",
+            "teacher": "доц.Кот В.В.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-26T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "пр",
+            "endtime": "12:20",
+            "id": "6",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Іноземна мова",
+            "starttime": "11:20",
+            "teacher": "доц.Пабат М.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "13:30",
+            "id": "7",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Об\u0027єктно-орієнтоване програмування (CS1021)",
+            "starttime": "12:30",
+            "teacher": "доц.Шпортько О.В.",
+            "type": 0
+          }
+        ]
+      }
+    ],
+    "KN20": [
+      {
+        "date": "2022-05-22T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "11:10",
+            "id": "2",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Алгоритми і структури даних ",
+            "starttime": "10:10",
+            "teacher": "доц.Юскович-Жуковська В.І.",
+            "type": 0
+          },
+          {
+            "description": "пр",
+            "endtime": "12:20",
+            "id": "5",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Іноземна мова",
+            "starttime": "11:20",
+            "teacher": "доц.Пабат М.А.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-23T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "пр",
+            "endtime": "11:10",
+            "id": "2",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Методи оптимізації та дослідження операцій",
+            "starttime": "10:10",
+            "teacher": "ст.в.Єпік Н.Б.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-24T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "пр",
+            "endtime": "11:10",
+            "id": "3",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Українська мова",
+            "starttime": "10:10",
+            "teacher": "доц.Саркісова І.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "6",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Web-технологій та web-дизайн /Web-технології в освіті",
+            "starttime": "11:20",
+            "teacher": "ст.в.Богут О.М.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-25T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лекція",
+            "endtime": "10:10",
+            "id": "0",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Математичне моделювання систем",
+            "starttime": "9:00",
+            "teacher": "доц.Сяський В.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "11:10",
+            "id": "1",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Математичне моделювання систем",
+            "starttime": "10:10",
+            "teacher": "доц.Сяський В.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "4",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Алгоритми і структури даних ",
+            "starttime": "11:20",
+            "teacher": "доц.Юскович-Жуковська В.І.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-26T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "11:10",
+            "id": "2",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Програмування мікроконтролерів",
+            "starttime": "10:10",
+            "teacher": "доц.Кот В.В.",
+            "type": 0
+          },
+          {
+            "description": "пр",
+            "endtime": "12:20",
+            "id": "5",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Іноземна мова",
+            "starttime": "11:20",
+            "teacher": "доц.Пабат М.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "13:30",
+            "id": "9",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Web-технологій та web-дизайн /Web-технології в освіті",
+            "starttime": "12:30",
+            "teacher": "ст.в.Богут О.М.",
+            "type": 0
+          }
+        ]
+      }
+    ],
+    "EBI20": [
+      {
+        "date": "2022-05-22T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "пр",
+            "endtime": "12:20",
+            "id": "3",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Іноземна мова",
+            "starttime": "11:20",
+            "teacher": "доц.Пабат М.А.",
+            "type": 0
+          },
+          {
+            "description": "лекція",
+            "endtime": "13:30",
+            "id": "8",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Базы данных",
+            "starttime": "12:30",
+            "teacher": "проф.Янчук П.С.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-23T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лекція",
+            "endtime": "10:10",
+            "id": "0",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Базы данных",
+            "starttime": "9:00",
+            "teacher": "проф.Янчук П.С.",
+            "type": 0
+          },
+          {
+            "description": "пр",
+            "endtime": "11:10",
+            "id": "3",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Польська мова",
+            "starttime": "10:10",
+            "teacher": "доц.Смерчко А.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "5",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "On-line навчання математики та інформатики",
+            "starttime": "11:20",
+            "teacher": "ст.в.Близнюк С.В.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "7",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Базы данных",
+            "starttime": "11:20",
+            "teacher": "проф.Янчук П.С.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-24T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "пр",
+            "endtime": "11:10",
+            "id": "1",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Українська мова",
+            "starttime": "10:10",
+            "teacher": "доц.Саркісова І.А.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-25T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "5",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Базы данных",
+            "starttime": "11:20",
+            "teacher": "проф.Янчук П.С.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-26T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "10:10",
+            "id": "0",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Лаборатория програмирования",
+            "starttime": "9:00",
+            "teacher": "доц.Кот В.В.",
+            "type": 0
+          },
+          {
+            "description": "пр",
+            "endtime": "12:20",
+            "id": "3",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Іноземна мова",
+            "starttime": "11:20",
+            "teacher": "доц.Пабат М.А.",
+            "type": 0
+          },
+          {
+            "description": "лекція",
+            "endtime": "14:40",
+            "id": "10",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Базы данных",
+            "starttime": "13:40",
+            "teacher": "проф.Янчук П.С.",
+            "type": 0
+          }
+        ]
+      }
+    ],
+    "IN20": [
+      {
+        "date": "2022-05-22T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "11:10",
+            "id": "1",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Алгоритми і структури даних ",
+            "starttime": "10:10",
+            "teacher": "доц.Юскович-Жуковська В.І.",
+            "type": 0
+          },
+          {
+            "description": "пр",
+            "endtime": "12:20",
+            "id": "4",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Іноземна мова",
+            "starttime": "11:20",
+            "teacher": "доц.Пабат М.А.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-23T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "пр",
+            "endtime": "11:10",
+            "id": "1",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Методи оптимізації та дослідження операцій",
+            "starttime": "10:10",
+            "teacher": "ст.в.Єпік Н.Б.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "6",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "On-line навчання математики та інформатики",
+            "starttime": "11:20",
+            "teacher": "ст.в.Близнюк С.В.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-24T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "пр",
+            "endtime": "11:10",
+            "id": "2",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Українська мова",
+            "starttime": "10:10",
+            "teacher": "доц.Саркісова І.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "5",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Web-технологій та web-дизайн /Web-технології в освіті",
+            "starttime": "11:20",
+            "teacher": "ст.в.Богут О.М.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-25T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "12:20",
+            "id": "3",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Алгоритми і структури даних ",
+            "starttime": "11:20",
+            "teacher": "доц.Юскович-Жуковська В.І.",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "date": "2022-05-26T21:00:00.0000000Z",
+        "lessons": [
+          {
+            "description": "лр",
+            "endtime": "11:10",
+            "id": "1",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Програмування мікроконтролерів",
+            "starttime": "10:10",
+            "teacher": "доц.Кот В.В.",
+            "type": 0
+          },
+          {
+            "description": "пр",
+            "endtime": "12:20",
+            "id": "4",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Іноземна мова",
+            "starttime": "11:20",
+            "teacher": "доц.Пабат М.А.",
+            "type": 0
+          },
+          {
+            "description": "лр",
+            "endtime": "13:30",
+            "id": "8",
+            "isOnline": true,
+            "location": "calendar.google.com/calendar",
+            "name": "Web-технологій та web-дизайн /Web-технології в освіті",
+            "starttime": "12:30",
+            "teacher": "ст.в.Богут О.М.",
+            "type": 0
+          }
+        ]
+      }
+    ]
+  }
+}
